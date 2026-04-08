@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-SERVICE_B_URL = "http://localhost:8080/api/students/batch"
+SERVICE_B_URL = "http://spring-service:8080/api/students/batch"
 BATCH_SIZE = 20
 
 def send_in_batches(valid_records):

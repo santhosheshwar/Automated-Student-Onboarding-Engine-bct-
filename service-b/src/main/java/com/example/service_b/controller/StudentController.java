@@ -29,6 +29,7 @@ public class StudentController {
 
     @PostMapping("/batch")
     public ResponseEntity<List<Student>> createBatch(@RequestBody List<Student> students) {
+        System.out.println("Received batch size:" + students.size());
         return new ResponseEntity<>(
                 studentService.saveBatch(students),
                 HttpStatus.CREATED

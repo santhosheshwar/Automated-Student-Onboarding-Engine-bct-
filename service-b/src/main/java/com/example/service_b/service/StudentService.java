@@ -1,7 +1,7 @@
 package com.example.service_b.service;
 
 import com.example.service_b.model.Student;
-import com.example.service_b.repository.StudentRepository;
+import com.example.service_b.repository.StudentRepository;;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -30,7 +30,6 @@ public class StudentService {
             }
             toSave.add(student);
         }
-
 
         List<Student> saved = studentRepository.saveAll(toSave);
         return saved;

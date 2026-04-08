@@ -15,12 +15,20 @@ def main():
     os.makedirs("data", exist_ok=True)
 
     filepath = generate_students(150)
+    print(f"Generated students file: {filepath}")
 
     valid_records, invalid_records = validate_students(filepath)
+    print(f"Valid records: {len(valid_records)}, Invalid records: {len(invalid_records)}")
 
     convert_to_json(valid_records)
+    print(f"Converted {len(valid_records)} records to JSON")
+
+   
+    print("Waiting for Service B to start...")
+    time.sleep(20)
 
     send_in_batches(valid_records)
+    print(f"Sent {len(valid_records)} records in batches")
 
     watcher_thread = threading.Thread(
         target=start_watching,
