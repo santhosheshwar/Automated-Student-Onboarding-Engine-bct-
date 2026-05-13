@@ -1,730 +1,730 @@
 [
     {
-        "name": "Andrea Cabrera",
-        "email": "scotthannah@example.net",
-        "age": 27,
-        "department": "Electrical",
-        "phone": "276.842.2548x7798"
-    },
-    {
-        "name": "Ashley Patel",
-        "email": "davidking@example.net",
-        "age": 27,
+        "name": "Joseph Warner",
+        "email": "edwardfisher@example.net",
+        "age": 23,
         "department": "Civil",
-        "phone": "001-984-318-4475"
+        "phone": "540.795.6591x376"
     },
     {
-        "name": "Heather Thompson",
-        "email": "tsmith@example.org",
-        "age": 30,
-        "department": "Electrical",
-        "phone": "001-609-813-2126x8248"
-    },
-    {
-        "name": "Kenneth Flowers",
-        "email": "roberthaley@example.org",
-        "age": 29,
-        "department": "Electrical",
-        "phone": "(719)797-2789x61156"
-    },
-    {
-        "name": "Holly Brewer",
-        "email": "floresscott@example.net",
-        "age": 21,
-        "department": "Civil",
-        "phone": "201-305-9367x96564"
-    },
-    {
-        "name": "James Sheppard",
-        "email": "avilalaurie@example.com",
-        "age": 29,
-        "department": "Civil",
-        "phone": "409.971.9335x36030"
-    },
-    {
-        "name": "Dustin Byrd",
-        "email": "madison03@example.com",
-        "age": 28,
-        "department": "Civil",
-        "phone": "001-302-584-4978x3505"
-    },
-    {
-        "name": "Elizabeth Howell",
-        "email": "thomassullivan@example.com",
-        "age": 30,
+        "name": "Troy Lopez",
+        "email": "andreawilson@example.com",
+        "age": 23,
         "department": "Computer Science",
-        "phone": "001-842-984-1977x86692"
+        "phone": "+1-212-605-7174x62390"
     },
     {
-        "name": "Jason Kirby",
-        "email": "leonhill@example.org",
+        "name": "Mr. Benjamin Lowery MD",
+        "email": "woodjohn@example.net",
+        "age": 27,
+        "department": "Computer Science",
+        "phone": "001-531-670-6205x4309"
+    },
+    {
+        "name": "Mr. William Cruz",
+        "email": "courtney17@example.net",
         "age": 19,
-        "department": "Civil",
-        "phone": "349.925.8844"
+        "department": "Computer Science",
+        "phone": "(507)355-5615"
     },
     {
-        "name": "Jenny Haas",
-        "email": "mcleanjamie@example.com",
-        "age": 18,
-        "department": "Electronics",
-        "phone": "(412)853-4563x9947"
-    },
-    {
-        "name": "Darren Mercer",
-        "email": "jennifer23@example.net",
-        "age": 23,
-        "department": "Electrical",
-        "phone": "+1-635-373-9885x78971"
-    },
-    {
-        "name": "Jessica White",
-        "email": "evangarrison@example.com",
+        "name": "Marcia Valenzuela",
+        "email": "lorettamartin@example.net",
         "age": 21,
-        "department": "Mechanical",
-        "phone": "(738)864-4883"
+        "department": "Electrical",
+        "phone": "001-381-512-8761x59704"
     },
     {
-        "name": "William Petty",
-        "email": "jessemcconnell@example.net",
+        "name": "Matthew Moore",
+        "email": "hurstbrittany@example.net",
+        "age": 25,
+        "department": "Civil",
+        "phone": "+1-971-534-3807"
+    },
+    {
+        "name": "Stephanie Moore",
+        "email": "crystal41@example.net",
         "age": 26,
-        "department": "Electrical",
-        "phone": "(894)211-4111x4407"
-    },
-    {
-        "name": "Adam Reynolds",
-        "email": "laura79@example.org",
-        "age": 25,
-        "department": "Computer Science",
-        "phone": "001-966-880-9454"
-    },
-    {
-        "name": "Michael Cordova",
-        "email": "ljennings@example.org",
-        "age": 25,
-        "department": "Civil",
-        "phone": "6229385631"
-    },
-    {
-        "name": "Glenda Castillo",
-        "email": "warethomas@example.net",
-        "age": 22,
-        "department": "Computer Science",
-        "phone": "+1-461-642-8987x1805"
-    },
-    {
-        "name": "Daniel Walker",
-        "email": "pchavez@example.org",
-        "age": 21,
-        "department": "Electronics",
-        "phone": "+1-221-770-6790x24426"
-    },
-    {
-        "name": "Ruth Jones",
-        "email": "sean40@example.org",
-        "age": 28,
-        "department": "Electronics",
-        "phone": "5325232420"
-    },
-    {
-        "name": "Nathan Gibson",
-        "email": "frank86@example.net",
-        "age": 28,
-        "department": "Electrical",
-        "phone": "(301)746-1753"
-    },
-    {
-        "name": "Rhonda Montgomery",
-        "email": "ilyons@example.org",
-        "age": 24,
-        "department": "Electronics",
-        "phone": "001-991-720-4467x5984"
-    },
-    {
-        "name": "Donald Perry",
-        "email": "lanejason@example.net",
-        "age": 27,
-        "department": "Electronics",
-        "phone": "582.455.4935x27918"
-    },
-    {
-        "name": "Brianna Yang",
-        "email": "bmarquez@example.net",
-        "age": 21,
-        "department": "Civil",
-        "phone": "456.537.5048"
-    },
-    {
-        "name": "Kimberly White",
-        "email": "matthewdean@example.com",
-        "age": 22,
         "department": "Mechanical",
-        "phone": "687-243-4345x80510"
+        "phone": "853.541.2223x532"
     },
     {
-        "name": "Angela Wilson",
-        "email": "robertpham@example.com",
-        "age": 21,
-        "department": "Mechanical",
-        "phone": "001-796-800-1895x39569"
-    },
-    {
-        "name": "Kyle Freeman",
-        "email": "kristinperez@example.com",
-        "age": 18,
-        "department": "Electrical",
-        "phone": "(577)552-6816x44324"
-    },
-    {
-        "name": "Amy Becker",
-        "email": "ale@example.net",
-        "age": 25,
-        "department": "Civil",
-        "phone": "+1-657-349-2031"
-    },
-    {
-        "name": "Christina Bowen",
-        "email": "jamesolsen@example.org",
-        "age": 23,
-        "department": "Civil",
-        "phone": "+1-641-605-8768"
-    },
-    {
-        "name": "Shawn Webb",
-        "email": "alexisnewton@example.org",
-        "age": 22,
-        "department": "Computer Science",
-        "phone": "927-807-6758x80669"
-    },
-    {
-        "name": "John Sampson",
-        "email": "greenheather@example.org",
-        "age": 30,
-        "department": "Civil",
-        "phone": "634.889.2976"
-    },
-    {
-        "name": "Deborah Osborne",
-        "email": "helenmathews@example.org",
-        "age": 18,
-        "department": "Mechanical",
-        "phone": "001-227-996-3659x09550"
-    },
-    {
-        "name": "Tamara Gutierrez",
-        "email": "marisa26@example.net",
-        "age": 23,
-        "department": "Electronics",
-        "phone": "685.234.0488x69479"
-    },
-    {
-        "name": "Timothy Thomas",
-        "email": "imiller@example.org",
-        "age": 20,
-        "department": "Mechanical",
-        "phone": "300.781.2871"
-    },
-    {
-        "name": "Sean Kramer",
-        "email": "brandi94@example.org",
-        "age": 29,
-        "department": "Electrical",
-        "phone": "(341)996-5136x008"
-    },
-    {
-        "name": "Sarah Rhodes",
-        "email": "yramos@example.com",
-        "age": 23,
-        "department": "Electrical",
-        "phone": "(736)532-6616"
-    },
-    {
-        "name": "Ashlee Miller",
-        "email": "rebecca32@example.net",
-        "age": 18,
-        "department": "Computer Science",
-        "phone": "(237)659-1909x275"
-    },
-    {
-        "name": "Tammy Knight",
-        "email": "garciabrenda@example.org",
-        "age": 30,
-        "department": "Computer Science",
-        "phone": "001-881-546-9334"
-    },
-    {
-        "name": "Zachary Frey",
-        "email": "bnewman@example.net",
-        "age": 24,
-        "department": "Computer Science",
-        "phone": "(263)994-3767x0987"
-    },
-    {
-        "name": "Kristen May",
-        "email": "vmeza@example.net",
-        "age": 27,
-        "department": "Electronics",
-        "phone": "419.506.5269"
-    },
-    {
-        "name": "Richard Tate",
-        "email": "rebecca97@example.org",
-        "age": 23,
-        "department": "Computer Science",
-        "phone": "455.632.0787x18824"
-    },
-    {
-        "name": "Erica Lewis",
-        "email": "beverlypacheco@example.net",
-        "age": 26,
-        "department": "Electronics",
-        "phone": "926-600-3024x385"
-    },
-    {
-        "name": "Reginald Galvan",
-        "email": "chadayala@example.net",
-        "age": 21,
-        "department": "Computer Science",
-        "phone": "644-228-2354x901"
-    },
-    {
-        "name": "Jeremy Pratt",
-        "email": "ogonzales@example.org",
-        "age": 25,
-        "department": "Electronics",
-        "phone": "+1-663-390-3405x599"
-    },
-    {
-        "name": "Carlos Fisher",
-        "email": "smithmatthew@example.org",
-        "age": 28,
-        "department": "Electronics",
-        "phone": "(566)263-2422x901"
-    },
-    {
-        "name": "Jonathan Mitchell",
-        "email": "wwilliams@example.net",
-        "age": 22,
-        "department": "Electronics",
-        "phone": "(595)692-2693"
-    },
-    {
-        "name": "Candice Ramirez",
-        "email": "wilkersonmichael@example.net",
-        "age": 26,
-        "department": "Civil",
-        "phone": "762.936.7988x2237"
-    },
-    {
-        "name": "Sarah Evans",
-        "email": "stephanie26@example.net",
-        "age": 25,
-        "department": "Electrical",
-        "phone": "001-227-519-5218x19158"
-    },
-    {
-        "name": "Stacy Harrison",
-        "email": "caseychristopher@example.org",
-        "age": 28,
-        "department": "Computer Science",
-        "phone": "(475)664-6184"
-    },
-    {
-        "name": "Steve Harris",
-        "email": "jacksondonald@example.org",
-        "age": 20,
-        "department": "Civil",
-        "phone": "693.235.2323x28592"
-    },
-    {
-        "name": "Karen Stone",
-        "email": "davidhumphrey@example.net",
-        "age": 30,
-        "department": "Civil",
-        "phone": "+1-999-556-5555"
-    },
-    {
-        "name": "James Chan",
-        "email": "pdickerson@example.net",
-        "age": 22,
-        "department": "Computer Science",
-        "phone": "001-460-668-0618x7826"
-    },
-    {
-        "name": "Ryan Thompson DVM",
-        "email": "adam56@example.org",
-        "age": 22,
-        "department": "Civil",
-        "phone": "442.883.1918x8744"
-    },
-    {
-        "name": "William Williams",
-        "email": "rhodeslisa@example.org",
-        "age": 25,
-        "department": "Computer Science",
-        "phone": "001-887-745-9957x8960"
-    },
-    {
-        "name": "Rebecca Moore",
-        "email": "nicholassilva@example.org",
-        "age": 22,
-        "department": "Computer Science",
-        "phone": "677.798.9339x958"
-    },
-    {
-        "name": "Christopher Pearson",
-        "email": "marshalllori@example.org",
-        "age": 19,
-        "department": "Mechanical",
-        "phone": "001-480-704-7844x0043"
-    },
-    {
-        "name": "Joshua Mccarthy",
-        "email": "wmann@example.com",
-        "age": 27,
-        "department": "Civil",
-        "phone": "001-625-910-2656x9422"
-    },
-    {
-        "name": "Kathleen Barnes",
-        "email": "harrisdaniel@example.org",
-        "age": 18,
-        "department": "Electrical",
-        "phone": "6017632002"
-    },
-    {
-        "name": "David Bryant",
-        "email": "vbecker@example.net",
-        "age": 20,
-        "department": "Mechanical",
-        "phone": "306-909-1391x736"
-    },
-    {
-        "name": "Michelle Holland",
-        "email": "figueroaraymond@example.net",
-        "age": 28,
-        "department": "Computer Science",
-        "phone": "496.621.3747x4495"
-    },
-    {
-        "name": "Benjamin Kemp",
-        "email": "april32@example.com",
-        "age": 22,
-        "department": "Mechanical",
-        "phone": "001-278-704-5198"
-    },
-    {
-        "name": "Ashley Miller",
-        "email": "kevinmartin@example.net",
-        "age": 25,
-        "department": "Computer Science",
-        "phone": "001-768-891-2709x17458"
-    },
-    {
-        "name": "Evan Powell",
-        "email": "atkinsonjohn@example.org",
-        "age": 23,
-        "department": "Electronics",
-        "phone": "+1-616-730-4609x9296"
-    },
-    {
-        "name": "Melinda Solomon",
-        "email": "garciawilliam@example.org",
-        "age": 20,
-        "department": "Computer Science",
-        "phone": "(214)919-4202x527"
-    },
-    {
-        "name": "Darin Gibson",
-        "email": "rodriguezpaul@example.org",
-        "age": 22,
-        "department": "Mechanical",
-        "phone": "658-264-8724x4788"
-    },
-    {
-        "name": "Guy Davis",
-        "email": "deborah65@example.net",
-        "age": 30,
-        "department": "Electronics",
-        "phone": "337-662-2079x885"
-    },
-    {
-        "name": "Beverly Hall",
-        "email": "jhall@example.net",
-        "age": 27,
-        "department": "Electronics",
-        "phone": "686-984-3345x309"
-    },
-    {
-        "name": "Adam Diaz",
-        "email": "sydney99@example.net",
-        "age": 30,
-        "department": "Electrical",
-        "phone": "962.514.4542x504"
-    },
-    {
-        "name": "Jacqueline Ward",
-        "email": "ahall@example.net",
-        "age": 25,
-        "department": "Electrical",
-        "phone": "001-701-849-4920x2580"
-    },
-    {
-        "name": "Lawrence Medina",
-        "email": "brandondougherty@example.org",
-        "age": 28,
-        "department": "Computer Science",
-        "phone": "726.579.1549x4069"
-    },
-    {
-        "name": "Sarah Bowman",
-        "email": "barnesrebecca@example.net",
-        "age": 28,
-        "department": "Computer Science",
-        "phone": "6176258562"
-    },
-    {
-        "name": "William Rogers",
-        "email": "mhamilton@example.net",
-        "age": 21,
-        "department": "Mechanical",
-        "phone": "(910)914-4071x246"
-    },
-    {
-        "name": "John Rangel",
-        "email": "lee50@example.com",
-        "age": 21,
-        "department": "Mechanical",
-        "phone": "468-646-7440"
-    },
-    {
-        "name": "Chad Lee",
-        "email": "shayes@example.com",
-        "age": 29,
-        "department": "Mechanical",
-        "phone": "696-988-0641x27897"
-    },
-    {
-        "name": "Michael Ayala",
-        "email": "medinapatricia@example.com",
-        "age": 21,
-        "department": "Electrical",
-        "phone": "001-961-677-6978x9095"
-    },
-    {
-        "name": "Juan Wright",
-        "email": "zcarson@example.org",
-        "age": 19,
-        "department": "Civil",
-        "phone": "3215865911"
-    },
-    {
-        "name": "David Carpenter",
-        "email": "michael48@example.org",
-        "age": 27,
-        "department": "Electronics",
-        "phone": "+1-389-586-1596x36050"
-    },
-    {
-        "name": "Martin Rogers",
-        "email": "francokevin@example.org",
-        "age": 20,
-        "department": "Mechanical",
-        "phone": "8353945786"
-    },
-    {
-        "name": "Lori Park",
-        "email": "jessicamartin@example.org",
-        "age": 26,
-        "department": "Electronics",
-        "phone": "+1-593-684-6257x6501"
-    },
-    {
-        "name": "Alicia Johnson",
-        "email": "griffinsamuel@example.net",
-        "age": 28,
-        "department": "Electrical",
-        "phone": "001-972-649-9147"
-    },
-    {
-        "name": "Eric Yates",
-        "email": "fhodges@example.org",
-        "age": 23,
-        "department": "Electronics",
-        "phone": "(945)957-0768"
-    },
-    {
-        "name": "Jeffrey Trujillo",
-        "email": "campbelladriana@example.net",
+        "name": "Jonathan Price",
+        "email": "erictodd@example.com",
         "age": 29,
         "department": "Computer Science",
-        "phone": "672-387-3276x91321"
+        "phone": "367-680-0636x551"
     },
     {
-        "name": "Don Chang",
-        "email": "jordanclay@example.org",
-        "age": 21,
-        "department": "Electronics",
-        "phone": "584.662.4597x9251"
-    },
-    {
-        "name": "Dennis Kim",
-        "email": "rodriguezsamantha@example.com",
-        "age": 18,
-        "department": "Computer Science",
-        "phone": "+1-969-451-5762x1880"
-    },
-    {
-        "name": "Douglas Burns",
-        "email": "katherinenoble@example.net",
-        "age": 20,
-        "department": "Computer Science",
-        "phone": "+1-512-857-9762x355"
-    },
-    {
-        "name": "Michael Knapp",
-        "email": "zachary15@example.org",
-        "age": 22,
-        "department": "Civil",
-        "phone": "001-856-935-5691x37342"
-    },
-    {
-        "name": "Jonathon Butler",
-        "email": "kentelizabeth@example.com",
-        "age": 29,
-        "department": "Mechanical",
-        "phone": "+1-731-913-1371"
-    },
-    {
-        "name": "Stephanie Miller DDS",
-        "email": "loganrios@example.net",
+        "name": "Michelle Duncan",
+        "email": "lance56@example.net",
         "age": 25,
+        "department": "Electronics",
+        "phone": "+1-966-873-7838x87345"
+    },
+    {
+        "name": "Tracy Newton",
+        "email": "pbennett@example.org",
+        "age": 28,
         "department": "Electrical",
-        "phone": "001-756-251-4961"
+        "phone": "304.874.6390x15978"
     },
     {
-        "name": "Sonya Dixon",
-        "email": "wbarron@example.net",
-        "age": 20,
-        "department": "Electrical",
-        "phone": "415-227-0570"
-    },
-    {
-        "name": "Terry Harper",
-        "email": "udecker@example.org",
-        "age": 24,
-        "department": "Computer Science",
-        "phone": "+1-781-815-0444x414"
-    },
-    {
-        "name": "Kevin Bryant",
-        "email": "jonespatricia@example.net",
+        "name": "James Turner",
+        "email": "jose75@example.org",
         "age": 26,
         "department": "Civil",
-        "phone": "6417163004"
+        "phone": "(693)269-2632x307"
     },
     {
-        "name": "Stephanie Richardson",
-        "email": "vmichael@example.org",
-        "age": 25,
-        "department": "Civil",
-        "phone": "385.266.4510x67105"
-    },
-    {
-        "name": "Angela Williams",
-        "email": "joneselaine@example.com",
-        "age": 18,
-        "department": "Mechanical",
-        "phone": "542.848.7243"
-    },
-    {
-        "name": "Laura Bennett",
-        "email": "jermainelloyd@example.org",
-        "age": 19,
-        "department": "Electronics",
-        "phone": "001-883-454-7379x54428"
-    },
-    {
-        "name": "Jennifer Dawson",
-        "email": "yhernandez@example.org",
+        "name": "Donna Blackburn",
+        "email": "stewartmolly@example.com",
         "age": 27,
-        "department": "Electrical",
-        "phone": "+1-600-994-7797x114"
+        "department": "Electronics",
+        "phone": "4856253226"
     },
     {
-        "name": "Thomas Davis",
-        "email": "rebeccajefferson@example.com",
+        "name": "Karen Harrison",
+        "email": "fguerra@example.com",
+        "age": 22,
+        "department": "Civil",
+        "phone": "(632)960-2612"
+    },
+    {
+        "name": "Robert Andrews",
+        "email": "nortontina@example.com",
         "age": 23,
-        "department": "Electrical",
-        "phone": "421.670.8695x990"
+        "department": "Civil",
+        "phone": "001-926-344-3062x911"
     },
     {
-        "name": "Kellie Harrell",
-        "email": "michellejuarez@example.net",
-        "age": 30,
-        "department": "Electrical",
-        "phone": "001-475-419-6637x782"
-    },
-    {
-        "name": "Melissa Booth",
-        "email": "glevine@example.net",
-        "age": 18,
-        "department": "Mechanical",
-        "phone": "694.459.3075x90675"
-    },
-    {
-        "name": "Lori Jones",
-        "email": "harrisondalton@example.com",
+        "name": "John Brown",
+        "email": "munozdiane@example.com",
         "age": 24,
         "department": "Civil",
-        "phone": "292.201.1807"
+        "phone": "001-667-844-4749x57137"
     },
     {
-        "name": "Christine Swanson",
-        "email": "peter00@example.org",
+        "name": "Stephanie Skinner",
+        "email": "pbarajas@example.net",
+        "age": 24,
+        "department": "Computer Science",
+        "phone": "875.719.2513x00845"
+    },
+    {
+        "name": "Christine Wilson",
+        "email": "gwaters@example.org",
+        "age": 20,
+        "department": "Civil",
+        "phone": "6003914165"
+    },
+    {
+        "name": "Natasha Cook",
+        "email": "richardsaaron@example.org",
         "age": 25,
-        "department": "Mechanical",
-        "phone": "(276)721-8132x8978"
-    },
-    {
-        "name": "Timothy Gillespie",
-        "email": "tricia22@example.org",
-        "age": 27,
-        "department": "Computer Science",
-        "phone": "8227985661"
-    },
-    {
-        "name": "Miguel Scott",
-        "email": "pacejudith@example.com",
-        "age": 30,
         "department": "Electronics",
-        "phone": "753-240-7714x39650"
+        "phone": "649.799.5162"
     },
     {
-        "name": "Stephanie Nguyen",
-        "email": "heatherhendricks@example.net",
-        "age": 27,
-        "department": "Mechanical",
-        "phone": "213-480-8188x8853"
-    },
-    {
-        "name": "Jeffrey Romero",
-        "email": "anthonyjenkins@example.com",
-        "age": 30,
-        "department": "Computer Science",
-        "phone": "001-612-845-3583x8833"
-    },
-    {
-        "name": "Sean Gentry",
-        "email": "jeffrey82@example.org",
-        "age": 27,
-        "department": "Mechanical",
-        "phone": "(354)992-5985x452"
-    },
-    {
-        "name": "Nicholas Taylor",
-        "email": "anthony53@example.net",
+        "name": "Jennifer Zimmerman",
+        "email": "kennethrogers@example.net",
         "age": 21,
         "department": "Civil",
-        "phone": "(945)727-1494"
+        "phone": "700.651.3402"
+    },
+    {
+        "name": "Jennifer Johnson",
+        "email": "atkinsonlarry@example.org",
+        "age": 18,
+        "department": "Mechanical",
+        "phone": "+1-300-324-5125x928"
+    },
+    {
+        "name": "Frances Davis",
+        "email": "jbriggs@example.org",
+        "age": 22,
+        "department": "Computer Science",
+        "phone": "459.642.9693x51994"
+    },
+    {
+        "name": "Natalie Harris",
+        "email": "rsharp@example.org",
+        "age": 20,
+        "department": "Civil",
+        "phone": "001-877-214-8910x96193"
+    },
+    {
+        "name": "Alice Petersen",
+        "email": "qsmith@example.com",
+        "age": 28,
+        "department": "Computer Science",
+        "phone": "717.337.9413"
+    },
+    {
+        "name": "Brian Martinez",
+        "email": "suzanne80@example.org",
+        "age": 24,
+        "department": "Electronics",
+        "phone": "429-768-1652x349"
+    },
+    {
+        "name": "Kenneth Marks",
+        "email": "daniel78@example.net",
+        "age": 21,
+        "department": "Electrical",
+        "phone": "960.949.1067x0792"
+    },
+    {
+        "name": "David Cox",
+        "email": "ocox@example.org",
+        "age": 30,
+        "department": "Electrical",
+        "phone": "274-898-3938"
+    },
+    {
+        "name": "Lori Price",
+        "email": "aimeedominguez@example.net",
+        "age": 28,
+        "department": "Computer Science",
+        "phone": "871.791.2224x93736"
+    },
+    {
+        "name": "Renee Elliott",
+        "email": "leecesar@example.com",
+        "age": 22,
+        "department": "Electrical",
+        "phone": "001-571-355-3087x23268"
+    },
+    {
+        "name": "Charles Dalton",
+        "email": "ugrimes@example.com",
+        "age": 27,
+        "department": "Electrical",
+        "phone": "739.563.8988x811"
+    },
+    {
+        "name": "Ronnie Parker",
+        "email": "maydeanna@example.com",
+        "age": 25,
+        "department": "Electronics",
+        "phone": "(243)385-9646"
+    },
+    {
+        "name": "Mr. Michael Peterson MD",
+        "email": "xowens@example.net",
+        "age": 21,
+        "department": "Electronics",
+        "phone": "001-604-615-4417x2362"
+    },
+    {
+        "name": "Linda Morgan",
+        "email": "williamwilliams@example.org",
+        "age": 24,
+        "department": "Mechanical",
+        "phone": "+1-689-794-2435"
+    },
+    {
+        "name": "Kyle Glass",
+        "email": "cmitchell@example.org",
+        "age": 18,
+        "department": "Electronics",
+        "phone": "605-472-6845x73133"
+    },
+    {
+        "name": "Daniel Simpson",
+        "email": "lauracarter@example.net",
+        "age": 28,
+        "department": "Mechanical",
+        "phone": "+1-454-566-2145x9199"
+    },
+    {
+        "name": "Patricia Cantu",
+        "email": "bassdaniel@example.org",
+        "age": 21,
+        "department": "Electronics",
+        "phone": "389.392.0142"
+    },
+    {
+        "name": "Clayton Huang",
+        "email": "daniellemorris@example.org",
+        "age": 28,
+        "department": "Electrical",
+        "phone": "9826648771"
+    },
+    {
+        "name": "Brandon Griffin",
+        "email": "barnesalexander@example.net",
+        "age": 30,
+        "department": "Electrical",
+        "phone": "001-773-383-4051x43068"
+    },
+    {
+        "name": "Susan Buck",
+        "email": "hernandezjason@example.com",
+        "age": 21,
+        "department": "Civil",
+        "phone": "001-612-518-9823x90285"
+    },
+    {
+        "name": "Mary Sanchez",
+        "email": "bryan36@example.net",
+        "age": 26,
+        "department": "Computer Science",
+        "phone": "+1-856-652-6868x0717"
+    },
+    {
+        "name": "Monica Ward",
+        "email": "steven94@example.net",
+        "age": 25,
+        "department": "Electronics",
+        "phone": "631.459.2370x6595"
+    },
+    {
+        "name": "Leslie Gilmore",
+        "email": "brian88@example.net",
+        "age": 21,
+        "department": "Electronics",
+        "phone": "+1-906-497-2261x76618"
+    },
+    {
+        "name": "Kaitlyn Stewart",
+        "email": "xmcdonald@example.com",
+        "age": 30,
+        "department": "Electronics",
+        "phone": "001-728-530-3285"
+    },
+    {
+        "name": "April Coleman",
+        "email": "heatherrocha@example.com",
+        "age": 21,
+        "department": "Civil",
+        "phone": "952.516.8717"
+    },
+    {
+        "name": "Luis Harrison",
+        "email": "xramirez@example.org",
+        "age": 19,
+        "department": "Computer Science",
+        "phone": "732.420.0906x4595"
+    },
+    {
+        "name": "Shelby Thomas",
+        "email": "kimberlybishop@example.net",
+        "age": 26,
+        "department": "Civil",
+        "phone": "001-487-749-3510"
+    },
+    {
+        "name": "Randy Andrews",
+        "email": "cassandrawilson@example.com",
+        "age": 30,
+        "department": "Computer Science",
+        "phone": "(855)533-7230"
+    },
+    {
+        "name": "Justin Richardson",
+        "email": "cody74@example.com",
+        "age": 18,
+        "department": "Mechanical",
+        "phone": "811.428.1578"
+    },
+    {
+        "name": "Duane Dixon",
+        "email": "ortizjustin@example.com",
+        "age": 18,
+        "department": "Computer Science",
+        "phone": "+1-830-975-6259"
+    },
+    {
+        "name": "Shawn Adams",
+        "email": "bstevens@example.org",
+        "age": 28,
+        "department": "Electronics",
+        "phone": "001-943-819-5774x86212"
+    },
+    {
+        "name": "Troy Lyons",
+        "email": "jarvisalexander@example.com",
+        "age": 29,
+        "department": "Electronics",
+        "phone": "(487)794-4454"
+    },
+    {
+        "name": "Ann Ortega",
+        "email": "rebecca09@example.net",
+        "age": 28,
+        "department": "Mechanical",
+        "phone": "(341)264-9556x0050"
+    },
+    {
+        "name": "Cassidy Lee",
+        "email": "heather39@example.org",
+        "age": 27,
+        "department": "Computer Science",
+        "phone": "537.411.3817"
+    },
+    {
+        "name": "Amanda Rogers",
+        "email": "dicksonjason@example.net",
+        "age": 23,
+        "department": "Electrical",
+        "phone": "818-562-8361"
+    },
+    {
+        "name": "Ryan Smith",
+        "email": "chelsea17@example.com",
+        "age": 30,
+        "department": "Electronics",
+        "phone": "564-267-6836x19502"
+    },
+    {
+        "name": "Brenda Woods",
+        "email": "sandra94@example.net",
+        "age": 30,
+        "department": "Computer Science",
+        "phone": "+1-697-887-6384x970"
+    },
+    {
+        "name": "Barbara Nelson",
+        "email": "jennifer33@example.net",
+        "age": 23,
+        "department": "Electrical",
+        "phone": "(989)587-7331x1377"
+    },
+    {
+        "name": "Debra Parker",
+        "email": "gmartinez@example.net",
+        "age": 19,
+        "department": "Electrical",
+        "phone": "4842474645"
+    },
+    {
+        "name": "Brandi Wilson",
+        "email": "richardwhite@example.net",
+        "age": 30,
+        "department": "Civil",
+        "phone": "001-936-457-7764x32097"
+    },
+    {
+        "name": "Scott Silva",
+        "email": "robertvillanueva@example.net",
+        "age": 21,
+        "department": "Electrical",
+        "phone": "2026892348"
+    },
+    {
+        "name": "George Jones",
+        "email": "adaniels@example.com",
+        "age": 23,
+        "department": "Mechanical",
+        "phone": "599-322-8958"
+    },
+    {
+        "name": "Scott Cook",
+        "email": "melissajordan@example.org",
+        "age": 27,
+        "department": "Civil",
+        "phone": "800-944-7087x00567"
+    },
+    {
+        "name": "Paul Richards",
+        "email": "todd90@example.net",
+        "age": 22,
+        "department": "Electronics",
+        "phone": "(619)387-8380x748"
+    },
+    {
+        "name": "Gina Bailey",
+        "email": "mclark@example.net",
+        "age": 29,
+        "department": "Electrical",
+        "phone": "990.250.4698"
+    },
+    {
+        "name": "Dr. Desiree Palmer",
+        "email": "melindamills@example.net",
+        "age": 19,
+        "department": "Computer Science",
+        "phone": "+1-468-355-7304x9128"
+    },
+    {
+        "name": "William Ramirez",
+        "email": "watsonjoseph@example.net",
+        "age": 26,
+        "department": "Mechanical",
+        "phone": "(838)522-6374x5608"
+    },
+    {
+        "name": "Amanda Farrell",
+        "email": "jimmy47@example.com",
+        "age": 26,
+        "department": "Civil",
+        "phone": "942.652.7495x448"
+    },
+    {
+        "name": "Mr. James Marshall",
+        "email": "woodardjames@example.com",
+        "age": 27,
+        "department": "Mechanical",
+        "phone": "218.957.5950"
+    },
+    {
+        "name": "Tracey Mathis",
+        "email": "ygarrett@example.net",
+        "age": 21,
+        "department": "Mechanical",
+        "phone": "001-357-782-6592"
+    },
+    {
+        "name": "Sharon Smith",
+        "email": "robertblack@example.org",
+        "age": 26,
+        "department": "Civil",
+        "phone": "641-732-6242"
+    },
+    {
+        "name": "Laura Martinez",
+        "email": "acarpenter@example.net",
+        "age": 27,
+        "department": "Electronics",
+        "phone": "498.470.8233x2103"
+    },
+    {
+        "name": "Brianna Johnson",
+        "email": "kevin18@example.net",
+        "age": 21,
+        "department": "Computer Science",
+        "phone": "460-702-9420"
+    },
+    {
+        "name": "Michelle Miles",
+        "email": "beckerscott@example.com",
+        "age": 19,
+        "department": "Electronics",
+        "phone": "987.651.1129"
+    },
+    {
+        "name": "Harold Holmes",
+        "email": "carolvega@example.net",
+        "age": 22,
+        "department": "Electronics",
+        "phone": "883.202.9921x59392"
+    },
+    {
+        "name": "Kaitlin Johnson",
+        "email": "anelson@example.org",
+        "age": 24,
+        "department": "Mechanical",
+        "phone": "001-831-984-4665x6621"
+    },
+    {
+        "name": "Michael Smith",
+        "email": "averynicole@example.com",
+        "age": 18,
+        "department": "Mechanical",
+        "phone": "357.996.2170"
+    },
+    {
+        "name": "John Scott",
+        "email": "zlewis@example.com",
+        "age": 20,
+        "department": "Civil",
+        "phone": "854.831.6026"
+    },
+    {
+        "name": "Sandra Smith DDS",
+        "email": "christopherhancock@example.org",
+        "age": 21,
+        "department": "Electronics",
+        "phone": "590.871.2350"
+    },
+    {
+        "name": "Charles Walker",
+        "email": "josephhamilton@example.org",
+        "age": 24,
+        "department": "Electronics",
+        "phone": "+1-221-236-6914x9186"
+    },
+    {
+        "name": "Michael Walsh",
+        "email": "steven24@example.net",
+        "age": 22,
+        "department": "Civil",
+        "phone": "305.917.9473x596"
+    },
+    {
+        "name": "Victoria Prince",
+        "email": "laurenbarajas@example.com",
+        "age": 21,
+        "department": "Civil",
+        "phone": "520.299.2348x8859"
+    },
+    {
+        "name": "Samuel Elliott",
+        "email": "scottross@example.org",
+        "age": 28,
+        "department": "Electronics",
+        "phone": "(755)564-3728x377"
+    },
+    {
+        "name": "Joshua Zhang",
+        "email": "kevincrawford@example.org",
+        "age": 28,
+        "department": "Civil",
+        "phone": "001-250-704-5132"
+    },
+    {
+        "name": "Michelle Yang",
+        "email": "richmondheather@example.com",
+        "age": 22,
+        "department": "Civil",
+        "phone": "(440)416-3479"
+    },
+    {
+        "name": "Ethan Orozco",
+        "email": "qharris@example.com",
+        "age": 30,
+        "department": "Mechanical",
+        "phone": "345.500.8829x62371"
+    },
+    {
+        "name": "Calvin Martinez",
+        "email": "william63@example.org",
+        "age": 22,
+        "department": "Computer Science",
+        "phone": "507.639.9811x369"
+    },
+    {
+        "name": "Barbara Perry",
+        "email": "dlowery@example.net",
+        "age": 24,
+        "department": "Computer Science",
+        "phone": "001-951-584-6474x2836"
+    },
+    {
+        "name": "Joyce Berry",
+        "email": "onelson@example.org",
+        "age": 21,
+        "department": "Electronics",
+        "phone": "516.964.8094"
+    },
+    {
+        "name": "Jessica Sullivan",
+        "email": "robin42@example.com",
+        "age": 19,
+        "department": "Electrical",
+        "phone": "+1-295-414-0848x9154"
+    },
+    {
+        "name": "Michael Jones",
+        "email": "salinassamantha@example.org",
+        "age": 18,
+        "department": "Civil",
+        "phone": "+1-900-245-0277x642"
+    },
+    {
+        "name": "Jennifer Berry",
+        "email": "simssarah@example.org",
+        "age": 23,
+        "department": "Electrical",
+        "phone": "001-643-574-9735x2065"
+    },
+    {
+        "name": "Justin Small",
+        "email": "walkerryan@example.com",
+        "age": 18,
+        "department": "Electrical",
+        "phone": "(602)465-7841"
+    },
+    {
+        "name": "Shirley Roberts",
+        "email": "kathryn91@example.com",
+        "age": 30,
+        "department": "Computer Science",
+        "phone": "+1-840-829-4114x1991"
+    },
+    {
+        "name": "Earl Ellis",
+        "email": "michaelcarey@example.org",
+        "age": 28,
+        "department": "Computer Science",
+        "phone": "700-455-6163x337"
+    },
+    {
+        "name": "Stephanie Salazar",
+        "email": "jamesbrown@example.com",
+        "age": 19,
+        "department": "Electrical",
+        "phone": "(911)424-0538x83567"
+    },
+    {
+        "name": "Sherri Smith",
+        "email": "cooperjessica@example.com",
+        "age": 26,
+        "department": "Electronics",
+        "phone": "001-962-816-1276x157"
+    },
+    {
+        "name": "Tara Jones",
+        "email": "belllaura@example.org",
+        "age": 30,
+        "department": "Computer Science",
+        "phone": "001-874-608-7875x26931"
+    },
+    {
+        "name": "Joshua Griffin",
+        "email": "dorothyrodriguez@example.org",
+        "age": 28,
+        "department": "Electrical",
+        "phone": "833.411.3181x7196"
+    },
+    {
+        "name": "Wesley Haynes",
+        "email": "adamrogers@example.org",
+        "age": 18,
+        "department": "Civil",
+        "phone": "9437394656"
+    },
+    {
+        "name": "Julia Shields",
+        "email": "whitneycoleman@example.net",
+        "age": 18,
+        "department": "Electrical",
+        "phone": "001-783-254-6799x5551"
+    },
+    {
+        "name": "Brandon Stafford",
+        "email": "rwilliams@example.net",
+        "age": 27,
+        "department": "Electronics",
+        "phone": "+1-266-621-9535x516"
+    },
+    {
+        "name": "Mrs. Abigail Lewis",
+        "email": "asmith@example.org",
+        "age": 28,
+        "department": "Computer Science",
+        "phone": "891.822.5073"
+    },
+    {
+        "name": "Roberto Mcconnell",
+        "email": "melissa48@example.com",
+        "age": 28,
+        "department": "Civil",
+        "phone": "435-425-8155x25064"
+    },
+    {
+        "name": "Ronald Roberts",
+        "email": "carlaroberts@example.net",
+        "age": 20,
+        "department": "Electrical",
+        "phone": "001-937-497-0259x659"
+    },
+    {
+        "name": "Mary Payne",
+        "email": "arobinson@example.net",
+        "age": 20,
+        "department": "Electronics",
+        "phone": "+1-419-998-4820x5576"
     }
 ]
